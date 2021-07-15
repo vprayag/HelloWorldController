@@ -39,7 +39,6 @@
 				<groupId>org.springframework.boot</groupId>
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
-		
 	<plugin>
     <groupId>com.microsoft.azure</groupId>
     <artifactId>azure-spring-cloud-maven-plugin</artifactId>
@@ -67,8 +66,7 @@
             </resources>
         </deployment>
     </configuration>
-</plugin> 
-			</plugins>
+</plugin></plugins>
 	</build>
 
 </project>
